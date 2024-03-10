@@ -1,3 +1,0 @@
-joblib==1.2.0
-lightgbm==3.3.5
-jpholiday==0.1.8
