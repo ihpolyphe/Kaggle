@@ -17,10 +17,12 @@ class ScoringService(object):
         Returns:
             bool: The return value. True for success.
         """
-        model_path = os.path.join(model_path,"trained_model.pkl"))
-
+        print("\n mode import phase {}".format(model_path))
+        # model_path_concat = os.path.join("../model","/trained_model.pkl")
+        model_path_concat = str(model_path) + "/trained_model.pkl"
+        print("after cat {}".format(model_path_concat))
         # カレントディレクトリにあるモデルデータの読み込み
-        gbm = pickle.load(open(model_path, 'rb'))
+        gbm = pickle.load(open(model_path_concat, 'rb'))
         print("gbm type:::{}".format(type(gbm)))
         print("gbm:::{}".format(gbm))
 
