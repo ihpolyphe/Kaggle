@@ -1,4 +1,7 @@
-*csv
-train
 *Identifier
 *.pyc
+train
+test_big_data.csv
+train_8-11_month.csv
+train_12month.csv
+result
