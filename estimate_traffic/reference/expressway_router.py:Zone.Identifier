@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://signate.jp/
-HostUrl=https://signate-prd.s3.ap-northeast-1.amazonaws.com/datasets/624/expressway_router.py?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVKLYHDANJDVBQYE2%2F20240309%2Fap-northeast-1%2Fs3%2Faws4_request&X-Amz-Date=20240309T151057Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=772946c876ad32b119bba5649fdacf93ff29e82d8f27cab78046e39759da719d
