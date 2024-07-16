@@ -23,6 +23,8 @@ install pip library
 pip install -r install_requiremnets.txt
 ```
 
+vscodeで実行する際は`Python`と`Jupyter`のextentionをインストールすること。
+
 ## Reference
 - https://qiita.com/kattoyoshi/items/79e924c487cb7c2bec69
 - https://qiita.com/shunsho/items/2facb2bd2bb6d03f81b4#gpu%E6%90%AD%E8%BC%89%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3
