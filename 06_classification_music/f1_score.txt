@@ -1,9 +1,10 @@
-  LGBM f1:  0.64180
-  SVC f1:  0.60968
-  MLP f1:  0.62327
-  LGBM params: {'objective': 'multiclass', 'num_class': 11, 'learning_rate': 0.01088526604140966, 'num_leaves': 3, 'min_data_in_leaf': 40, 'verbosity': 0}
+  LGBM f1:  0.59565
+  SVC f1:  0.55603
+  MLP f1:  0.42909
+  LGBM params: {'objective': 'multiclass', 'num_class': 11, 'learning_rate': 0.010966617672221108, 'num_leaves': 3, 'min_data_in_leaf': 40, 'verbosity': 0}
   SVC params: SVC(C=30.0, gamma=0.0005, probability=True)
-  MLP params: MLPClassifier(activation='logistic', hidden_layer_sizes=(1000,), max_iter=1000)
+  MLP params: MLPClassifier(activation='logistic', hidden_layer_sizes=(1000,),
+              learning_rate_init=0.010306213767366486, max_iter=1000)
   knn_feature_weights: [1.e+02 1.e+02 1.e+02 1.e+02 1.e+02 1.e+02 1.e+02 1.e+02 1.e+02 1.e+02
  1.e+02 1.e+02 1.e+02 1.e+02 1.e+02 1.e+02 1.e+02 1.e+02 1.e+02 1.e+02
  1.e+02 9.e+00 1.e+00 3.e+00 1.e+00 1.e+00 1.e+00 1.e+00 1.e+00 1.e+00
