@@ -1,0 +1,7 @@
+  LGBM roc:  0.85890
+  LGBM params: {'objective': ['binary'], 'metric': ['auc'], 'learning_rate': [0.1], 'num_leaves': [4], 'min_data_in_leaf': [30], 'max_depth': [3], 'verbosity': [0]}
+  SVC roc:  0.49918
+  MLP roc:  0.50000
+  SVC params: SVC(C=10, decision_function_shape='ovo', gamma=0.01, probability=True,
+    random_state=42)
+  MLP params: MLPClassifier(activation='logistic', learning_rate_init=0.01, max_iter=10000)
